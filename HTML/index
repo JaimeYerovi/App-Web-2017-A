@@ -1,26 +1,28 @@
-<nodo-principal1>
-    <universidad nombre="Escuela Politècnica Nacional" direccion="bla bla" telefono="1234567890">
-        <facultad nombre="Sistemas">
-            <asociacion-de-estudiantes>AEIS</asociacion-de-estudiantes>
-            <departamentos>Informatica y computacion</departamentos>
-        </facultad>
-        <facultad>
-            <asociacion-de-estudiantes></asociacion-de-estudiantes>
-            <departamentos></departamentos>
-        </facultad>
-        <facultad>
-            <asociacion-de-estudiantes></asociacion-de-estudiantes>
-            <departamentos></departamentos>
-        </facultad>
-        <asociacion-de-estudiantes></asociacion-de-estudiantes>
-        <servicios></servicios>
-    </universidad>
-</nodo-principal1>
-
-<nodo-principal2>
-
-</nodo-principal2>
 <html>
-    <head></head>
-    <body></body>
+    <head>
+        <title>Jaime Yeorvi</title>
+        <link rel="icon" href="favico.ico">
+    </head>
+    <body>
+    <h1>Cabecera principal</h1>
+    <p>Parrafo</p>
+    <img src="https://www.google.com.ec/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwivmJ6b28nTAhUGKiYKHeIkCtsQjRwIBw&url=https%3A%2F%2Fangular.io%2F&psig=AFQjCNGJHtVTk1xQ2EbOGdJzwmWOScWdBA&ust=1493556911627628" alt="logo de angular">
+
+    <ul>
+        <li>Lista1</li>
+        <li>Lista2</li>
+        <li>Lista3</li>
+        <li>lista4</li>
+        <li>lista5</li>
+    </ul>
+    
+    <h2>Cabecera secundaria</h2>
+    <h3>Cabecera tres</h3>
+    <h4>cabecera 4</h4>
+    <h5>cabecera 5</h5>
+    <h6>cabecera 6</h6>
+    <h7>cabecera 7</h7>
+    <p>texto para el usuario</p>
+
+    </body>
 </html>
