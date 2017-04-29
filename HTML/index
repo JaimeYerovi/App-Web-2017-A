@@ -15,7 +15,30 @@
         <li>lista4</li>
         <li>lista5</li>
     </ul>
-    
+    <ol>
+        <li>uno</li>
+        <li>dos</li>
+        <li>tres</li>
+        <li>cuatro</li>
+        <li>cinco:
+            <ul>
+                <li>1</li>
+                <li>2</li>
+                <li>3</li>
+            </ul>
+        </li>
+    </ol>
+
+    <table>
+        <tr>
+            <th>Nombres</th>
+            <th>Apellidos</th>
+        </tr>
+        <tr>
+            <th>Jaime Gustavo</th>
+            <th>Yerovi Usiña</th>
+        </tr>
+    </table>
     <h2>Cabecera secundaria</h2>
     <h3>Cabecera tres</h3>
     <h4>cabecera 4</h4>
