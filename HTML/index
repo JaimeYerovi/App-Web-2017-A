@@ -29,7 +29,7 @@
         </li>
     </ol>
 
-    <table>
+    <table border="1">
         <tr>
             <th>Nombres</th>
             <th>Apellidos</th>
@@ -39,6 +39,37 @@
             <th>Yerovi Usiña</th>
         </tr>
     </table>
+    <br>
+
+
+    <form action="subirdatos.php">
+        <label>tipo texto</label><br>
+        <input type="text">
+        <br>
+        <label >tipo password</label><br>
+        <input type="password">
+        <br>
+        <label >tipo email</label><br>
+        <input type="email">
+        <br>
+        <label >tipo archivo</label><br>
+        <input type="file">
+        <br>
+        <label >tipo color</label><br>
+        <input type="color">
+        <br>
+        <label >tipo boton</label><br>
+        <input type="button" value="enviar">
+        <br>
+        <button type="submit">Enviar </button>
+        <br>
+        <button type="button">normal </button>
+        <br>
+        <button type="reset">resetear </button>
+        <br>
+
+    </form>
+
     <h2>Cabecera secundaria</h2>
     <h3>Cabecera tres</h3>
     <h4>cabecera 4</h4>
